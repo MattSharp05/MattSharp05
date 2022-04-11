@@ -5,3 +5,4 @@
 - 📫 How to reach me email: matthewsharp@usf.edu
 
 
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MattSharp05/github-readme-stats)
