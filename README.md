@@ -9,4 +9,5 @@
 
 
 Connect with me!
-<i class="ri-instagram-line"></i>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
