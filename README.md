@@ -8,9 +8,12 @@
 
 ## 🚀 About Me
 
-🎓 I am Matthew Sharp, a **Computer Science Student** studying at the University of South Florida! I am currently a Technical Lead for the Google Developer's Club and the Had of Technology for HackaBull - Tampa's largest hackathon! I have previously worked as a Technical Program Manager for CodePath.org!
+🎓 I am Matthew Sharp, a **Computer Science Student** studying at the University of South Florida! 
+🎓 I am currently a Technical Lead for the Google Developer's Club! 
+🎓 I am also the Head of Technology for HackaBull - Tampa's largest hackathon! 
+🎓 I have previously worked as a Technical Program Manager for CodePath.org!
 
-📚 Outside the tech world, I enjoy reading, going to the gym, going to the beach, and spending time with my firends!
+📚 Outside the tech world, I enjoy reading, going to the gym, going to the beach, and spending time with my friends!
 
 ## 🛠️ Skills
 
@@ -24,6 +27,12 @@
 ![Parse](https://img.shields.io/badge/Parse-000000?style=for-the-badge&logo=parse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
+
+## 📝 Networking
+- I am currently looking for a summer 2023 internship!
+- I am also looking to collaborate on research projects!
+- Open to joining Hackathon teams!
+- Connect with me down below!
 
 
 
