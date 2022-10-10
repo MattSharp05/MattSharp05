@@ -8,7 +8,8 @@
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSharp05)](https://github.com/MattSharp05/github-readme-stats)
 
 
-Connect with me!/n
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![github](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]
+Connect with me!
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)
 
