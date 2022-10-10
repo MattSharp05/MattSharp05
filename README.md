@@ -12,6 +12,7 @@ Connect with me!
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![github](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)
-![github](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/matthew-sharp-cs/)
+![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]
+(https://www.linkedin.com/in/matthew-sharp-cs/)
 ![github](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)
 
