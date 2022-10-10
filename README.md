@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @MattSharp05
-- 👀 I’m interested in Python, Machine Learning, Artificial Intelligence, iOS development
-- 🌱 I’m currently learning python, machine learning, flask, swift
-- 💞️ I’m looking to collaborate on research projects
-- 📫 How to reach me email: matthewsharp@usf.edu
-
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
@@ -27,18 +21,13 @@
 ![Parse](https://img.shields.io/badge/Parse-000000?style=for-the-badge&logo=parse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 📝 Networking
 - I am currently looking for a summer 2023 internship!
 - I am also looking to collaborate on research projects!
 - Open to joining Hackathon teams!
 - Connect with me down below!
 
-
-
-
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSharp05)](https://github.com/MattSharp05/github-readme-stats)
-
 
 Connect with me!
 
@@ -47,4 +36,3 @@ Connect with me!
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/matthew-sharp-cs/)
 [![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/Matt1Codes)
 [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m5sharp)
-
