@@ -18,12 +18,11 @@
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase--000000?style=for-the-badge&logo=Firebase&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
 ![Bak4App](https://img.shields.io/badge/Back4App-000000?style=for-the-badge&logo=Back4App&logoColor=white)
 ![Parse](https://img.shields.io/badge/Parse-000000?style=for-the-badge&logo=parse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![DSA](https://img.shields.io/badge/Data Structures and Algorithms-000000?style=for-the-badge&logo=DSA&logoColor=white)
 
 
 
