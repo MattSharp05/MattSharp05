@@ -6,3 +6,7 @@
 
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSharp05)](https://github.com/MattSharp05/github-readme-stats)
+
+
+Connect with me!
+<i class="ri-instagram-line"></i>
