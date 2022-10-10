@@ -10,9 +10,9 @@
 
 Connect with me!
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![github](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MattSharp05)
+[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/matt.codes1_/)
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/matthew-sharp-cs/)
-![github](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)
+[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/Matt1Codes)
+[![medium](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m5sharp)
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
